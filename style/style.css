@@ -332,7 +332,9 @@ body {
 	}
 
 	#uw-logo {
-		margin-top: 2.5%;
+		float: none;
+		margin-left: 37.5%;
+		margin-top: 7%;
 	}
 
 	#vr-headset {
@@ -355,6 +357,12 @@ body {
 
 	.sub-title {
 		font-size: 6rem;
+	}
+
+	#uw-logo {
+		float: none;
+		margin-left: 37.5%;
+		margin-top: 7%;
 	}
 
 	#tour {
@@ -393,6 +401,12 @@ body {
 		margin-bottom: 2%;
 		margin-bottom: 7%;
 	}
+
+	#uw-logo {
+		float: none;
+		margin-left: 37.5%;
+		margin-top: 7%;
+	}
 }
 
 @media (min-width: 1920px) { 
@@ -414,6 +428,19 @@ body {
 
 	#odyssey {
 		padding-top: 0;
+		padding-bottom: 5%;
+	}
+
+	#uw-logo {
+		margin-top: 3%;
+	}
+
+	.mission-parts, .mission-title {
+		padding-right: 20%;
+	}
+
+	.gradient {
+		padding-bottom: 0%;
 	}
 }
 
