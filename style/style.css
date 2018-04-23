@@ -227,8 +227,8 @@ body {
 	#vr-headset {
 		float: none;
 		margin-left: 33%;
-		margin-top:-30%;
-		margin-bottom: -20%;
+		margin-top:-70px;
+		margin-bottom: -30px;
 	}
 
 	#vr-implementation {
@@ -338,12 +338,13 @@ body {
 	}
 
 	#vr-headset {
-		margin-left: 5%;
+		float: none;
+		margin-left: 30%;
 		margin-right: 5%;
 	}
 
 	.gradient {
-		padding-bottom: 10%;
+		padding-bottom: 30%;
 	}
 
 }
@@ -379,8 +380,9 @@ body {
 	}
 
 	#vr-headset {
+		float: none;
+		margin-left: 30%;
 		margin-right: 5%;
-		margin-bottom: 5%;
 	}
 
 	.gradient {
@@ -404,7 +406,7 @@ body {
 
 	#uw-logo {
 		float: none;
-		margin-left: 37.5%;
+		margin-left: 39%;
 		margin-top: 7%;
 	}
 }
